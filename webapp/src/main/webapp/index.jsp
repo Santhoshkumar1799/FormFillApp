@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome!! Sandy Logi krish Amutha family DevOps Student Registration Form!!</h1>
+    <h1>Welcome!! SanthoshKumar Lokesh KrishnaKumar Amutha family DevOps Student Registration Form!!</h1>
     <p>Please fill in this form!</p>
     <hr>
     <br>
