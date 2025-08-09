@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome!! DhakshinaMoorthyG BanumathyD SanthoshKumarK LokeshK KrishnaKumarD AmuthaK family DevOps Student Registration Form!!</h1>
-    <p>Please fill in this form!</p>
+    <p>Please fill in this form for AWS DEVOPS PROJECT SESSION!</p>
     <hr>
     <br>
 
